@@ -1,4 +1,10 @@
 {
   "schema": 1,
-  "releases": []
+  "releases": [
+    {
+      "version": "1.0.0",
+      "platform": "darwin",
+      "url": "https://ko-fi.com/s/b58db6d20d"
+    }
+  ]
 }
